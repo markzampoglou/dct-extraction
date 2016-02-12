@@ -8,7 +8,9 @@ import com.sun.jna.ptr.IntByReference;
  *
  * @author markzampoglou
  * Markos Zampoglou, 2016
- * ITI-CERTH
+ * ITI-CERTH, Thessaloniki, Greece
+ * http://github.com/markzampoglou/
+ * http://www.linkedin.com/in/markzampoglou
  */
 
 public class DCTExtract {

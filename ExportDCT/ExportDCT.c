@@ -17,10 +17,12 @@
  * Copyright (c) 2003 The Regents of the University of California. 
  *
  * You are free to use this code for any purpose. There is no guarrantee that it
- * will work at all. I am not liable for any damage caused by this code.
+ * will work at all. I am not liable for any damage caused to anyone by this code.
  *
  * Markos Zampoglou, 2016
- * CERTH-ITI, Thessaloniki, Greece
+ * ITI-CERTH, Thessaloniki, Greece
+ * http://github.com/markzampoglou/
+ * http://www.linkedin.com/in/markzampoglou
  */
 
 
