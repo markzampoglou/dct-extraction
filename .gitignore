@@ -1,2 +1,47 @@
 #gedit backups
 *~
+
+####java IDE extras####
+
+# Eclipse
+javaDCTExtraction/.classpath
+javaDCTExtraction/.project
+javaDCTExtraction/.settings/
+
+# Intellij
+javaDCTExtraction/.idea/
+javaDCTExtraction/*.iml
+javaDCTExtraction/*.iws
+javaDCTExtraction/out/
+javaDCTExtraction/artifacts/
+javaDCTExtraction/smb:/
+
+# Mac
+javaDCTExtraction/.DS_Store
+
+# Maven
+javaDCTExtraction/log/
+javaDCTExtraction/target/
+
+# Netbeans
+javaDCTExtraction/nbproject/private/
+javaDCTExtraction/build/
+javaDCTExtraction/nbbuild/
+javaDCTExtraction/dist/
+javaDCTExtraction/nbdist/
+javaDCTExtraction/nbactions.xml
+javaDCTExtraction/nb-configuration.xml
+
+# Class Files #
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Log files
+*.log
+
+
+
