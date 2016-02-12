@@ -9,6 +9,6 @@ The project consists of two elements:
 
 There are many limitations to this version of the code, most importantly that currently only the Y channel coefficients are extracted. I do not currently intend to improve the code, though it should be fairly straightforward. I might change my mind in the future and turn it into a proper library.
 
-In trying to understand how libjpeg stores data internally and how to get it, Phil Sallee's MATLAB JPEG Toolbox (and especially the jpeg_read.m function) was a huge help. Keep it in mind if you intend to improve the extraction framework.
+In trying to understand how libjpeg stores data internally and how to get it, Phil Sallee's MATLAB JPEG Toolbox (and especially the jpeg_read.c function) was a huge help. Keep it in mind if you intend to improve the extraction framework.
 
 This code has been tested in Ubuntu 14.04, using libjpeg 8. It has been known to work in Windows 7 x64 too, though there you may have to compile the JPEG library into a dll yourself. See the README for some help.
