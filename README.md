@@ -3,7 +3,7 @@ This is a combination of C and Java code aimed to extract the DCT coefficients f
 
 The project consists of two elements:
 
-1) A C library (libExportDCT), called libE xthat accesses libjpeg and takes the data of interest in a serialized (and very simplistic) form, that can then be read by Java using JNA. It requires that libjpeg is already available in the system. I'd suggest version 8d, not 9.
+1) A C library (libExportDCT), that accesses libjpeg and takes the data of interest in a serialized (and very simplistic) form, that can then be read by Java using JNA. It requires that libjpeg is already available in the system. I'd suggest version 8d, not 9.
 
 2) A Java project (javaDCTExtraction) that accesses libExportDCT and transforms the output to a java int[][] array. JNA is required, included via Maven.
 
